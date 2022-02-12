@@ -1,2 +1,2 @@
 # LinearBatteryModels
-Data for the work Linear Battery Models for Power Systems Analysis
+Original data generated for the paper titled "Linear Battery Models for Power Systems Analysis"
